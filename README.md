@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,50:9B1B30,100:FF6B81&height=180&section=header&text=Cedric%20Rio&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=Etudiant%20en%20Informatique%20%7C%20Electonique&descSize=18&descAlignY=63" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,50:9B1B30,100:FF6B81&height=180&section=header&text=Cedric%20Rio&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=%20%20%20%20%20&descSize=18&descAlignY=63" width="100%"/>
 
 ### `Code • Create • Improve`
 
